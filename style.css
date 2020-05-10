@@ -373,6 +373,8 @@ margin-left: 1rem;
 .content:hover {
   box-shadow: 0px 10px 20px -5px rgba(0,0,0,0.2);
   transform: translateY(-3px);
+  color: #000;
+  opacity: 0.8;
 }
 
 .content-img {
