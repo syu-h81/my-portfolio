@@ -324,6 +324,22 @@ margin-left: 1rem;
   padding-bottom: 2%;
 }
 
+.contact-btns {
+  display: flex;
+  justify-content: center;
+}
+
+.contact-btn {
+  background-color: rgba(255, 191, 31, 1);
+  display: inline;
+  padding: 15px 100px;
+  border-radius: 5px;
+}
+
+#instagram-contact {
+  margin-left: 5%;
+}
+
 
 
 
