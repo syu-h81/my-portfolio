@@ -121,17 +121,23 @@
   margin-top: 0;
 }
   
-  
-  
+  .text-contact {
+  text-align: justify;
+}
+    
 .contact-btns {
   display: grid;
-  gap: 40px;
+  gap: 20px;
+}
+  
+  #instagram-contact {
+  margin-left: 0;
 }
 
-.contact-btn {
-  padding: auto;
-  display: block;
-}
+
+  
+  
+
   
   
   
