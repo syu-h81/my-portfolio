@@ -120,6 +120,21 @@
 .work-sub-title {
   margin-top: 0;
 }
+  
+  
+  
+.contact-btns {
+  display: grid;
+  gap: 40px;
+}
+
+.contact-btn {
+  padding: auto;
+  display: block;
+}
+  
+  
+  
 
 
   /*  works.htmlのスタイルシート*/
