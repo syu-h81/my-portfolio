@@ -59,15 +59,18 @@
     padding: 0 10px;
     padding-top: 10px;
   }
+  
+  .profile-contents {
+    width: 100%;
+  }
 
   .sub-title {
-    width: 90%;
     margin: 0;
+    margin-top: 10%;
   }
 
   .text-profile {
     padding: 0 10px;
-    width: auto;
   }
 
   .service-sub-title {
